@@ -3,7 +3,7 @@ Write a function called longx that accepts a single string and returns the lengt
 
 For example:
 
-longx('asdxxxxf'); // returns 4
-longx('xa'); // return 1
-longx('xpxpxpxpxp'); // return 1
+longx('asdxxxxf'); // returns 4  
+longx('xa'); // return 1  
+longx('xpxpxpxpxp'); // return 1  
 longx('xxpxxxxxp'); // return 5
